@@ -1,0 +1,14 @@
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.exe
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.deps.json
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.runtimeconfig.json
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.runtimeconfig.dev.json
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.dll
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\bin\Debug\netcoreapp3.1\homeworkDateTimeex4.pdb
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.csproj.AssemblyReference.cache
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.AssemblyInfo.cs
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.dll
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.pdb
+C:\Users\darko\Desktop\C#\homeworkDateTimeex4\homeworkDateTimeex4\obj\Debug\netcoreapp3.1\homeworkDateTimeex4.genruntimeconfig.cache

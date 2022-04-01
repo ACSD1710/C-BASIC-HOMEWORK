@@ -1,0 +1,14 @@
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.exe
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.deps.json
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.runtimeconfig.json
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.runtimeconfig.dev.json
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.dll
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\bin\Debug\netcoreapp3.1\ColectionsHomeWork.pdb
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.csproj.AssemblyReference.cache
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.AssemblyInfoInputs.cache
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.AssemblyInfo.cs
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.dll
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.pdb
+C:\Users\darko\source\repos\ColectionsHomeWork\ColectionsHomeWork\obj\Debug\netcoreapp3.1\ColectionsHomeWork.genruntimeconfig.cache

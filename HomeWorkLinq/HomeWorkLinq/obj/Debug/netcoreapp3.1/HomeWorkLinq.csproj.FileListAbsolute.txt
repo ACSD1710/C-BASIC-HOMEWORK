@@ -1,0 +1,14 @@
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.exe
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.deps.json
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.runtimeconfig.json
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.runtimeconfig.dev.json
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.dll
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\bin\Debug\netcoreapp3.1\HomeWorkLinq.pdb
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.csproj.AssemblyReference.cache
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.AssemblyInfoInputs.cache
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.AssemblyInfo.cs
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.csproj.CoreCompileInputs.cache
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.dll
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.pdb
+C:\Users\darko\source\repos\HomeWorkLinq\HomeWorkLinq\obj\Debug\netcoreapp3.1\HomeWorkLinq.genruntimeconfig.cache
